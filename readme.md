@@ -1,5 +1,5 @@
-Ford GoBike Data Analysis project
-
+Ford GoBike Data Analysis project by Omar Ahmed
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The dataset contains information about individual rides made in San Francisco in February 2019.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -30,6 +30,7 @@ The dataset contains information about individual rides made in San Francisco in
 • Interestingly! the fastest rider in our data set is a female with a velocity=10 m/s!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Note: The velocity column can never be calculated with high accuracy by the method I have done because the distance is a displacement (Displacement is the straight line distance in a particular direction.)
 
 the actual distance will be much higher than displacement because of (roads, buildings, etc..), but I did this method to get any estimation about the speed of members.
